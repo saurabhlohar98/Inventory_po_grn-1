@@ -6,7 +6,8 @@ connect database SupaBase
 copy connection code and paste to .env file
 
 steps to run code 
-install npm
+npm install
+
 npm run start:dev
 
 and open 
